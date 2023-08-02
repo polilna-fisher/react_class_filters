@@ -1,0 +1,54 @@
+
+.main_section{
+    background: url("./main_bg.jpg");
+    background-size: cover;
+    padding: 0 150px;
+    height: 100%;
+}
+.container{
+    padding: 30px 10px;
+}
+.main_bg{
+    position: relative;
+
+}
+.title{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 58px;
+    color: #FFFF;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.beans{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.subtitle{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    color: #FFFF;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.button_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.img_beans{
+    width: 200px;
+    height: 30px;
+}

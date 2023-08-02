@@ -1,0 +1,54 @@
+.all_items_section{
+    padding: 0 150px;
+
+}
+.all_items_container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.filter_inner_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 70px;
+}
+.searching_panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.filter_panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.panel_input{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 5px 10px;
+    border-radius: 10px;
+
+}
+.panel_button{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.items_container{
+    max-width: 800px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 30px;
+}
+.filter_on{
+    background-color: rgba(114, 75, 48, 0.52);
+}

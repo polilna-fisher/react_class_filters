@@ -1,0 +1,21 @@
+.footer_section{
+    padding: 0 150px;
+}
+.footer_inner_container{
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav_footer_container{
+    display: flex;
+    gap: 30px;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+.footer_img{
+    width: 200px;
+    height: 30px;
+}

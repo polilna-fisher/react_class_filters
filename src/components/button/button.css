@@ -1,0 +1,13 @@
+
+.button{
+    font-family: Merienda, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    padding: 10px 50px;
+    cursor: pointer;
+    color: #FFFF;
+    background: transparent;
+    border: 3px solid #FFFF;
+    border-radius: 10px;
+}
